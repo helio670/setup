@@ -9,9 +9,10 @@ This contains the setup and system configuration instructions for users.  Users 
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
   * diagnostics to make sure things are working properly?
 
-*In construction!  
 
-# Course 0
+# Course 0:  Setup and configuration
+
+*Note: under construction!  
 
 #### Goal:  Course 0 is to ensure that the computer you will be using for the python classes is fully set up and configured so you can get started.  This involves getting packages installed, computers configured, everything updated to the correct versions, etc. so students can participate hands-on in class with minimal in-class debugging.  
 
