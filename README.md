@@ -23,7 +23,7 @@ This contains the setup and system configuration instructions for users.  Users 
 
 
 * Step 1:  Install Anaconda Navigator
-/nNavigator is a useful interface to manage packages and development environments. 
+\nNavigator is a useful interface to manage packages and development environments. 
 
   * If you do not have Anaconda installed, go to https://docs.anaconda.com/anaconda/install/
   * If you do have Anaconda installed, make sure it’s version 1.9.x (The current distribution 2018.12 is ~1.9.6) 
