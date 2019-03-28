@@ -1,4 +1,3 @@
-# Course 0:  setup and configuration
 This contains the setup and system configuration instructions for users.  Users participating in a class will come to this page to determine what system requirements are needed (or recommended) to take full advantage of the course material.  
 
 * Possible items that could be useful: 
