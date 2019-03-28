@@ -8,7 +8,7 @@ This contains the setup and system configuration instructions for users.  Users 
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
   * diagnostics to make sure things are working properly?
 
-
+---
 # Course 0:  Setup and configuration
 
 *Note: under construction!  
