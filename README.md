@@ -1,2 +1,2 @@
 # setup
-Setup and configuration instructions for users
+This contains the setup and configuration instructions for users.
