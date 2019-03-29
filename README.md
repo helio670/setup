@@ -2,7 +2,7 @@ This contains the setup and system configuration instructions for users.  Users 
 
 * Possible items that could be useful: 
   * Anaconda (Python 3.0 or higher, https://www.anaconda.com/distribution/)  
-  * set up your own git repository?
+  * set up your own git account?
   * More advanced packages not in Anaconda?
   * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
