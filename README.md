@@ -6,6 +6,7 @@ This contains the setup and system configuration instructions for users.  Users 
   * More advanced packages not in Anaconda?
   * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
+  * pycharm? 
   * diagnostics to make sure things are working properly?
 
 ---
