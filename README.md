@@ -20,15 +20,13 @@ _Timeline:_  1-2 hours, done prior to taking a course.
 
 _Requirements:_  The computer you’ll be using in the course. If you don’t have privileges to install software then you’ll have to work with your systems administrator. 
 
-_Instructors:_  Misc.
+_Instructors:_  Jules Kouatchou, Brent Smith, Luiz Guedes dos Santos, Barbara Thompson
 
+The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
 
-* Step 1:  Install Anaconda Navigator
-\nNavigator is a useful interface to manage packages and development environments. 
+# Anaconda Python Distribution
+Anaconda offers a bundled distribution of Python along with many utilities for use in the scientific/engineering disciplines. This software is available at
 
-  * If you do not have Anaconda installed, go to https://docs.anaconda.com/anaconda/install/
-  * If you do have Anaconda installed, make sure it’s version 1.9.x (The current distribution 2018.12 is ~1.9.6) 
-  * [What are explicit specifications to make sure everyone has what’s needed?  Can we get a checklist?]
-* Step 2:  Test your configuration
-  * You should try to have Python version 3.7.x  (though 3.5 or above should be sufficient).  
-  * Type python --version at a Mac or unix command prompt
+https://www.anaconda.com/download/
+
+Note: Please download and use the command-line installer designated for your operation system rather than any graphical installer (do not install Anaconda Navigator please). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
