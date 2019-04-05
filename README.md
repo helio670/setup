@@ -25,16 +25,16 @@ Note: Please download and use the command-line installer designated for your ope
 
 ### Verify your configuration
 At the terminal prompt (cmd in Windows) type 
-'''
+```
 jupyter notebook
-'''
+```
 This should open a directory menu in a web browser window.  
 Select from the "New" menu in the upper right "Notebook: Python 3"
 This should open a new notebook.  
 Type 
-''' 
+``` 
 import numpy
-'''
+```
 to verify that the numpy package loads properly.  
 
 ### Troubleshooting
