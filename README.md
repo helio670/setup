@@ -1,14 +1,5 @@
 This contains the setup and system configuration instructions for users.  Users participating in a class will come to this page to determine what system requirements are needed (or recommended) to take full advantage of the course material.  
 
-* Possible items that could be useful: 
-  * Anaconda (Python 3.0 or higher, https://www.anaconda.com/distribution/)  
-  * set up your own git account?
-  * More advanced packages not in Anaconda?
-  * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
-  * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
-  * pycharm? 
-  * diagnostics to make sure things are working properly?
-
 ---
 # Course 0:  Setup and configuration
 
@@ -30,3 +21,14 @@ Anaconda offers a bundled distribution of Python along with many utilities for u
 https://www.anaconda.com/download/
 
 Note: Please download and use the command-line installer designated for your operation system rather than any graphical installer (do not install Anaconda Navigator please). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
+
+
+# Later courses:  under construction
+
+* Possible items that could be useful: 
+  * set up your own git account?
+  * More advanced packages not in Anaconda?
+  * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
+  * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
+  * pycharm? 
+  * diagnostics to make sure things are working properly?
