@@ -11,6 +11,8 @@ _Requirements:_  The computer you’ll be using in the course. If you don’t ha
 
 _Instructors:_  Jules Kouatchou, Brent Smith, Luiz Guedes dos Santos, Barbara Thompson
 
+## 1.  Bootcamp Setup
+
 The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
 
 ### Anaconda Python Distribution
@@ -35,7 +37,7 @@ import numpy
 to verify that the numpy package loads properly.  
 
 
-# Setup for later courses:  under construction
+## Setup for later courses:  under construction
 
 * Possible items that could be useful:
   * make sure that the packages are working -diagnostics to make sure things are working properly?
