@@ -9,8 +9,6 @@ _Timeline:_  1-2 hours, done prior to taking a course.
 
 _Requirements:_  The computer you’ll be using in the course. If you don’t have privileges to install software then you’ll have to work with your systems administrator. 
 
-_Instructors:_  Jules Kouatchou, Brent Smith, Luiz Guedes dos Santos, Barbara Thompson
-
 ## 1.  Bootcamp Setup
 
 The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
@@ -36,6 +34,8 @@ import numpy
 '''
 to verify that the numpy package loads properly.  
 
+### Troubleshooting
+If you have difficulty with any of the setup, please email us or arrive early for the bootcamp.  Instructors will be available half an hour before the scheduled start. 
 
 ## 2. Setup for later courses:  under construction
 
