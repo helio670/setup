@@ -24,7 +24,7 @@ _Instructors:_  Jules Kouatchou, Brent Smith, Luiz Guedes dos Santos, Barbara Th
 
 The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
 
-# Anaconda Python Distribution
+### Anaconda Python Distribution
 Anaconda offers a bundled distribution of Python along with many utilities for use in the scientific/engineering disciplines. This software is available at
 
 https://www.anaconda.com/download/
