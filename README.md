@@ -48,4 +48,7 @@ If you have difficulty with any of the setup, please email us or arrive early fo
   * More advanced packages needed? 
   * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
-  * pycharm? 
+  * Code editing software recommendations: 
+    * If you like IDEs: PyCharm 
+    * If you like plain text editors: Atom, TextWrangler, ? 
+    * For exploration (e.g., first run through analysis, prototyping code): JupyterLab / Jupyter notebooks
