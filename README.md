@@ -20,7 +20,7 @@ https://www.anaconda.com/download/
 
 Note: Please download and use the command-line installer designated for your operation system rather than any graphical installer (do not install Anaconda Navigator please). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
 
-#### Verify your configuration
+### Verify your configuration
 At the terminal prompt (cmd in Windows) type 
 '''
 jupyter notebook
@@ -35,12 +35,12 @@ import numpy
 to verify that the numpy package loads properly.  
 
 
-# Later courses:  under construction
+# Setup for later courses:  under construction
 
-* Possible items that could be useful: 
+* Possible items that could be useful:
+  * make sure that the packages are working -diagnostics to make sure things are working properly?
   * set up your own git account?
-  * More advanced packages not in Anaconda?
+  * More advanced packages needed? 
   * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
   * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
   * pycharm? 
-  * diagnostics to make sure things are working properly?
