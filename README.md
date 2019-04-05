@@ -37,7 +37,7 @@ import numpy
 to verify that the numpy package loads properly.  
 
 
-## Setup for later courses:  under construction
+## 2. Setup for later courses:  under construction
 
 * Possible items that could be useful:
   * make sure that the packages are working -diagnostics to make sure things are working properly?
