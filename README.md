@@ -3,8 +3,6 @@ This contains the setup and system configuration instructions for users.  Users 
 ---
 # Course 0:  Setup and configuration
 
-*Note: under construction!  
-
 _Goal:_  Course 0 is to ensure that the computer you will be using for the python classes is fully set up and configured so you can get started.  This involves getting packages installed, computers configured, everything updated to the correct versions, etc. so students can participate hands-on in class with minimal in-class debugging.  
 
 _Timeline:_  1-2 hours, done prior to taking a course.  
@@ -22,6 +20,11 @@ https://www.anaconda.com/download/
 
 Note: Please download and use the command-line installer designated for your operation system rather than any graphical installer (do not install Anaconda Navigator please). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
 
+#### Verify your configuration
+At the terminal prompt (cmd in Windows) type 
+'''
+jupyter notebook
+'''
 
 # Later courses:  under construction
 
