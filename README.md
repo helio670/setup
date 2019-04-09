@@ -21,7 +21,7 @@ https://www.anaconda.com/download/
 You will want Anaconda 3.7 (not 2.7). 
 Windows users:  How to determine if you need the 32- or 64- bit version:  https://support.microsoft.com/en-us/help/15056/windows-32-64-bit-faq
 
-Note: If possible, please download and use the command-line installer designated for your operation system rather than any graphical installer (though some systems may require Anaconda Navigator). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
+Note: If possible, please download and use the command-line installer designated for your operation system rather than any graphical installer (though some systems may require Anaconda Navigator, you may need to check with your sysadmin). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
 
 ### Verify your configuration
 At the terminal prompt (cmd in Windows) type 
