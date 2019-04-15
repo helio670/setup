@@ -13,7 +13,7 @@ _Requirements:_  The computer you’ll be using in the course. If you don’t ha
 
 The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
 
-### Anaconda Python Distribution
+### Step 1: Anaconda Python Distribution
 Anaconda offers a bundled distribution of Python along with many utilities for use in the scientific/engineering disciplines. This software is available at
 
 https://www.anaconda.com/download/
@@ -25,7 +25,7 @@ Remember to reboot after installation!
 
 Note: If possible, please download and use the command-line installer designated for your operation system rather than any graphical installer (though some systems may require Anaconda Navigator, you may need to check with your sysadmin). If you do not know how to use the command-line, please email us for further instructions. Also, at the end of the installation prompts, you are asked to install Microsoft’s VSCode software suite. We will NOT be using this as we will be using the Jupyter Notebook that is included in the download.
 
-### Git - Version Control System
+### Step 2: Git - Version Control System
 
 All presentation materials are kept in a Git repository. To access this repository, you need the Git software available at
 [https://git-scm.com/download/](https://git-scm.com/download/)
@@ -48,7 +48,7 @@ As we move along, we may update the presentations to make minor corrections or a
 
 __Note:__ If you download the .zip file, you will not be able to update these files using Git. You will have to re-download the .zip file to obtain the latest presentation and changes.
 
-### Verify your configuration
+### Step 3: Verify your configuration
 At the terminal prompt (cmd in Windows) type 
 ```
 jupyter notebook
