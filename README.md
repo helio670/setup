@@ -37,7 +37,7 @@ __Note:__ If you are on a Mac OS and you have/use XCode and have administrator p
 This training repository can be downloaded by issuing the following command (from your terminal or Git Bash - Windows Users) at any time during these trainings:
 
 ```bash
-git clone repo_name
+git clone https://github.com/helio670/bootcamp.git
 ```
 
 You do not need to have a GitHub account to perform this and obtain the material online. If you would rather download a single snapshot .zip file of the presentations, you can do so via the web browser.
@@ -61,14 +61,6 @@ Type
 import numpy
 ```
 to verify that the numpy package loads properly. 
-
-#### Download the materials
-At the command prompt, do 
-```
-   git clone https://github.com/helio670/bootcamp.git
-```
-or go directly to the link https://github.com/helio670/bootcamp/ and select the green button "Clone or Download" and select "Download zip" to make a local copy.  Unzip the folder, and move the folder so you can find it when you enter the jupyter notebook file interface.
-
 
 ### Troubleshooting
 If you have difficulty with any of the setup, please email us or arrive early for the bootcamp.  Instructors will be available half an hour before the scheduled start. 
