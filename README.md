@@ -42,7 +42,7 @@ to verify that the numpy package loads properly.
 #### Download the materials
 At the command prompt, do 
 ```
-   git clone https://github.com/helio670/bootcamp/bootcamp.git
+   git clone https://github.com/helio670/bootcamp.git
 ```
 or go directly to the link https://github.com/helio670/bootcamp/ and select the green button "Clone or Download" and select "Download zip" to make a local copy.  Unzip the folder, and move the folder so you can find it when you enter the jupyter notebook file interface.
 
