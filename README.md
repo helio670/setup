@@ -5,7 +5,7 @@ This contains the setup and system configuration instructions for users.  Users 
 
 _Goal:_  Course 0 is to ensure that the computer you will be using for the python classes is fully set up and configured so you can get started.  This involves getting packages installed, computers configured, everything updated to the correct versions, etc. so students can participate hands-on in class with minimal in-class debugging.  
 
-_Timeline:_  1-2 hours, done prior to taking a course.  
+_Timeline:_  30 - 60 minutes, done prior to taking a course.  (Longer if you require sysadmin support to complete installation.)
 
 _Requirements:_  The computer you’ll be using in the course. If you don’t have privileges to install software then you’ll have to work with your systems administrator, but most software below (at least for the Bootcamp portion) should not require administrator priviledges.
 
