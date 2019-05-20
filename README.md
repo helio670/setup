@@ -56,11 +56,13 @@ jupyter notebook
 This should open a directory menu in a web browser window.  
 Select from the "New" menu in the upper right "Notebook: Python 3"
 This should open a new notebook.  
-Type 
+To test, enter
 ``` 
 import numpy
+import pandas
+import dask
 ```
-to verify that the numpy package loads properly. 
+into the notebook and run those commands to verify that the data science packages load properly (if no error appears it probably executed properly).
 
 ### Troubleshooting
 If you have difficulty with any of the setup, please email us or arrive early for the bootcamp.  Instructors will be available half an hour before the scheduled start. 
