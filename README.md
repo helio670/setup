@@ -9,7 +9,7 @@ _Timeline:_  30 - 60 minutes, done prior to taking a course.  (Longer if you req
 
 _Requirements:_  The computer you’ll be using in the course. If you don’t have privileges to install software then you’ll have to work with your systems administrator, but most software below (at least for the Bootcamp portion) should not require administrator priviledges.
 
-## 1.  Bootcamp Setup
+## 1.  Bootcamp and Data Science Class Setup
 
 The Python training is based upon the Python 3.x series (with compatibility notes for the Python 2.x series where applicable) using the Anaconda distribution/bundled software. We expect each participant to have the following two pieces of software installed on their laptops at least the day before the training begins:
 
