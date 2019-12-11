@@ -67,15 +67,3 @@ into the notebook and run those commands to verify that the data science package
 ### Troubleshooting
 If you have difficulty with any of the setup, please email us or arrive early for the bootcamp.  Instructors will be available half an hour before the scheduled start. 
 
-## 2. Setup for later courses:  under construction
-
-* Possible items that could be useful:
-  * make sure that the packages are working -diagnostics to make sure things are working properly?
-  * set up your own git account?
-  * More advanced packages needed? 
-  * Sunpy (https://docs.sunpy.org/en/stable/guide/installation/)
-  * Helio-ML setup instructions:  https://register-as.oma.be/sdo2018/python-setup.php
-  * Code editing software recommendations: 
-    * If you like IDEs: PyCharm 
-    * If you like plain text editors: Atom, TextWrangler, ? 
-    * For exploration (e.g., first run through analysis, prototyping code): JupyterLab / Jupyter notebooks
